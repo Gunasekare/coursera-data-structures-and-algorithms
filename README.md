@@ -1,2 +1,4 @@
-# coursera-data-structures-and-algorithms
-Coursera: Data Structures and Algorithms (University of California San Diego &amp; HSE University)
+# Coursera: Data Structures and Algorithms Specialization
+By University of California San Diego &amp; HSE University, Russia
+
+For more details, visit [Coursera](https://www.coursera.org/specializations/data-structures-algorithms).
